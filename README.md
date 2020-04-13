@@ -1,5 +1,5 @@
 # BOOK
-
+text reviews count prediction using scikit-learn
 
 + **개발기간**
 : 2019.07.17 ~ 2019.08.14
